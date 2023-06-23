@@ -487,7 +487,7 @@ function MovieDetails({
                 </>
               ) : (
                 <p>
-                  You rated with movie{" "}
+                  You rated this movie{" "}
                   {watchedUserRating}{" "}
                   <span>⭐️</span>
                 </p>
